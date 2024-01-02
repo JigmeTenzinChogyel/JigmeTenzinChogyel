@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigme Tenzin Chogyel</h1>
 <h3 align="center">A passionate fullstack developer from Bhutan</h3>
 
-<a align="left" href="https://linkedin.com/in/jigme-tenzin-chogyel-78a93b295">Connect with me!</a>
+<a align="left" href="https://linkedin.com/in/jigme-tenzin-chogyel-78a93b295">Connect With Me!</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigmetenzinchogyel&label=Profile%20views&color=0e75b6&style=flat" alt="jigmetenzinchogyel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigmetenzinchogyel" alt="jigmetenzinchogyel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=jigmetenzinchogyel" alt="jigmetenzinchogyel" /> </a> </p>
 
 - 🔭 I’m currently working on **an Accounting Software**
 
