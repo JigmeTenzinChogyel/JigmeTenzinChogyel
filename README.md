@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigme Tenzin Chogyel</h1>
 <h3 align="center">A passionate fullstack developer from Bhutan</h3>
 
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/jigme-tenzin-chogyel-78a93b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigme tenzin chogyel" height="30" width="40" /></a></h3>
+<a align="left" href="https://linkedin.com/in/jigme-tenzin-chogyel-78a93b295">Connect with me!</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigmetenzinchogyel&label=Profile%20views&color=0e75b6&style=flat" alt="jigmetenzinchogyel" /> </p>
 
