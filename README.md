@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Accounting Software**
 
-- 🌱 I’m currently learning **Next.js, GraphQL and Docker**
+- 🌱 I’m currently learning **Docker, Golang, C#, .NET**
 
 - 💬 Ask me about **react, node, express**
 
