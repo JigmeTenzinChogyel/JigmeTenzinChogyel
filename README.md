@@ -22,7 +22,7 @@
 
 <h2 align="left">GitHub Trophies:</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigmetenzinchogyel&theme=juicyfresh&column=3&margin-w=15&margin-h=15" alt="jigmetenzinchogyel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigmetenzinchogyel&theme=juicyfresh&column=6&margin-w=15&margin-h=15" alt="jigmetenzinchogyel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
