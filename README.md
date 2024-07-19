@@ -32,8 +32,8 @@
 
 <h2 align="left">Github Stats:</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigmetenzinchogyel&show_icons=true&locale=en&layout=compact" alt="jigmetenzinchogyel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigmetenzinchogyel&show_icons=true&locale=en&layout=compact&theme=radical" alt="jigmetenzinchogyel" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigmetenzinchogyel&show_icons=true&locale=en&theme=radical" alt="jigmetenzinchogyel" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigmetenzinchogyel&" alt="jigmetenzinchogyel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigmetenzinchogyel&theme=radical" alt="jigmetenzinchogyel" /></p>
