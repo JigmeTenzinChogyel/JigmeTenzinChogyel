@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jigme Tenzin Chogyel</h1>
+<h1 align="center">Hello 👋, I'm Jigme Tenzin Chogyel</h1>
 </br>
 <h3 align="center">A passionate Software Engineer from Bhutan</h3>
 </br>
