@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **c# and .NET**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
-
 - 💬 Ask me about **react, graphql and javascript**
 
 - 📫 How to reach me linkedin
