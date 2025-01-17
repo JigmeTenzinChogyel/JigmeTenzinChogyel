@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jigmetenzinchogyel&label=Profile%20views&color=0e75b6&style=flat" alt="jigmetenzinchogyel" width="200" /> 
 </p>
-</br>
 
 - 🔭 I’m currently working on **Accounting Software**
 
