@@ -13,16 +13,14 @@
 
 - 💬 Ask me about **react, graphql and javascript**
 
-- 📫 How to reach me linkedin
-
-- 📄 Know about my experiences [in progress](in progress)
-
 - ⚡ Fun fact **I love Psychology**
 
-<h2 align="left">Connect with me through:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/jigme-tenzin-chogyel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigme tenzin chogyel" height="30" width="40" /></a>
-</p>
+<h2 align="left">
+  <span>Connect with me through:</span>
+  <a href="www.linkedin.com/in/jigme-tenzin-chogyel-78a93b295" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigme tenzin chogyel" height="30" width="40" />
+  </a>
+</h2>
 
 <h2 align="left">GitHub Trophies:</h2>
 
